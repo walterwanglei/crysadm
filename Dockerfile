@@ -1,5 +1,5 @@
 FROM daocloud.io/python:3.4-onbuild
-MAINTAINER Jinrui Wang <306090773@qq.com>
+MAINTAINER Walter <walterwanglei@163.com>
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
